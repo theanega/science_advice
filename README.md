@@ -33,7 +33,3 @@ A personal collection of resources related to scientific practices, methodologie
 - [Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) by Manuel Blum
 - [An Insider's Guide to Asking the Right Questions During Your PhD](https://newscience.org/asking-the-right-questions/) by Rishi Kulkarni
 
-
-### Not advice - meta-science
--[What has happened down here is the winds have changed](https://statmodeling.stat.columbia.edu/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) by Andrew Gelman
--[We don’t know how to fix science](https://worksinprogress.co/issue/we-dont-know-how-to-fix-science/) by José Luis Ricón
