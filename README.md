@@ -21,7 +21,7 @@ A personal collection of resources related to scientific practices, methodologie
 - [Advice from the Nobel Laureates for a Life in Science](https://mediatheque.lindau-nobel.org/topics/2018-advice-from-the-nobel-laureates-for-a-life-in-science) by Neysan Donnelly
 - [The elements of scientific style - Works in Progress](https://worksinprogress.co/issue/the-elements-of-scientific-style/) by Étienne Fortier-Dubois
 - [Ten Lessons I Wish I Had Been Taught](https://www.ams.org/notices/199701/comm-rota.pdf) by Gian-Carlo Rota
-
+- [Peer Rejection in Science - Nintil](https://nintil.com/discoveries-ignored?s=09) by José Luís Ricón
 
 ### PhD-focus
 
