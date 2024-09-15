@@ -4,7 +4,7 @@ A personal collection of resources related to scientific practices, methodologie
 
 - [You and Your Research](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf) by Richard Hamming. An annoted version of the talk by Gwern, which includes questions to Hamming right after the talk can be found [here](https://gwern.net/doc/science/1986-hamming). Also this [reflection](https://www.lesswrong.com/posts/kLRN3uZMawshPBL9D/a-reflection-on-richard-hamming-s-you-and-your-research), by Aysajan.
 - [The Art of Science and Engineering](https://press.stripe.com/the-art-of-doing-science-and-engineering) by Richard Hamming
-- [On Our Duties As Scientists](https://www.wisdom.weizmann.ac.il/~oded/PSX/duties+p.pdf) by Oded Goldreich
+- [On Our Duties As Scientists](https://www.wisdom.weizmann.ac.il/~oded/PSX/duties+p.pdf) by Oded Goldreich. More of his writings [here](https://www.wisdom.weizmann.ac.il/~oded/essays.html)
 - [A Reaction From a Multitude](https://donellameadows.org/archives/a-reaction-from-a-multitude/) by Donella H. Meadows
 - [On Modeling](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27101) by Novikov, Kiselev and Kespersen.
 
