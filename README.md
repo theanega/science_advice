@@ -7,8 +7,6 @@ A personal collection of resources related to scientific practices, methodologie
 - [On Our Duties As Scientists](https://www.wisdom.weizmann.ac.il/~oded/PSX/duties+p.pdf) by Oded Goldreich. More of his writings [here](https://www.wisdom.weizmann.ac.il/~oded/essays.html)
 - [A Reaction From a Multitude](https://donellameadows.org/archives/a-reaction-from-a-multitude/) by Donella H. Meadows
 - [On Modeling](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27101) by Novikov, Kiselev and Kespersen.
-
-
 - [How to Choose a Good Scientific Problem](https://www.cell.com/fulltext/S1097-2765%2809%2900641-8) by Uri Alon
 - [Terence Tao's Career Advice Links](https://terrytao.wordpress.com/career-advice/), my favourites are [Enjoy Your Work](https://terrytao.wordpress.com/career-advice/enjoy-your-work/) and [Learn and Relearn Your Field](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/) by Michael Nielsen
@@ -22,6 +20,7 @@ A personal collection of resources related to scientific practices, methodologie
 - [The elements of scientific style - Works in Progress](https://worksinprogress.co/issue/the-elements-of-scientific-style/) by Étienne Fortier-Dubois
 - [Ten Lessons I Wish I Had Been Taught](https://www.ams.org/notices/199701/comm-rota.pdf) by Gian-Carlo Rota
 - [Peer Rejection in Science - Nintil](https://nintil.com/discoveries-ignored?s=09) by José Luís Ricón
+- [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md) by Omar Khattab
 
 ### PhD-focus
 
