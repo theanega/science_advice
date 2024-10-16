@@ -21,7 +21,7 @@ A personal collection of resources related to scientific practices, methodologie
 - [Ten Lessons I Wish I Had Been Taught](https://www.ams.org/notices/199701/comm-rota.pdf) by Gian-Carlo Rota
 - [Peer Rejection in Science - Nintil](https://nintil.com/discoveries-ignored?s=09) by José Luís Ricón
 - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md) by Omar Khattab
-- [It Takes Two To Think ](https://www.nature.com/articles/s41587-023-02074-2) by Itai Yanai & Martin J. Lercher 
+- [It Takes Two To Think](https://www.nature.com/articles/s41587-023-02074-2) by Itai Yanai & Martin J. Lercher 
 
 ### PhD-focus
 
