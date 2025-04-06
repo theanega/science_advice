@@ -22,6 +22,7 @@ A personal collection of resources related to scientific practices, methodologie
 - [Peer Rejection in Science - Nintil](https://nintil.com/discoveries-ignored?s=09) by José Luís Ricón
 - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md) by Omar Khattab
 - [It Takes Two To Think](https://www.nature.com/articles/s41587-023-02074-2) by Itai Yanai & Martin J. Lercher 
+- [Tough Learning](https://michaelnielsen.org/blog/tough-learning-part-4-final-draft/) by Michael Nielsen
 
 ### PhD
 - [Advice for Early PhD Students](https://mrdrozdov.github.io/blog/2024/advice/) by Andrew Drozdov
