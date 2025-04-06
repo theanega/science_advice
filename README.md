@@ -23,8 +23,8 @@ A personal collection of resources related to scientific practices, methodologie
 - [On Impactful AI Research](https://github.com/okhat/blog/blob/main/2024.09.impact.md) by Omar Khattab
 - [It Takes Two To Think](https://www.nature.com/articles/s41587-023-02074-2) by Itai Yanai & Martin J. Lercher 
 
-### PhD-focus
-
+### PhD
+- [Advice for Early PhD Students](https://mrdrozdov.github.io/blog/2024/advice/) by Andrew Drozdov
 - [Writing Your Dissertation in Fifteen Minutes a Day
 ](https://www.cs.umb.edu/~eb/joan/diss15/index.html) by Joan Bolker
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
